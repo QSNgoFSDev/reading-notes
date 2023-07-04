@@ -5,11 +5,11 @@ Description: this website is to note each Lab whats learner have learned through
 [Roadmap to become software engineer](https://roadmap.sh/full-stack)
 
 Progress so far:
-[x] Intro github
-[ ] Code 201 - Foundations of Software Development. :eye_speech_bubble: :eye_speech_bubble:
-[x] Growth-mindset
-[ ] Code 301 - Intermediate Software Development.
-[ ] Code 401 - Advanced Software Development.
+- [x] Intro github
+- [ ] Code 201 - Foundations of Software Development. :eye_speech_bubble: :eye_speech_bubble:
+- [x] Growth-mindset
+- [ ] Code 301 - Intermediate Software Development.
+- [ ] Code 401 - Advanced Software Development.
 
 ## Code 201 - Foundations of Software Development.
 ## Code 301 - Intermediate Software Development.
