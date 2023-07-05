@@ -76,7 +76,7 @@ Padding
 
 ## Making Decisions In Your Code – Conditionals.
 
-*An if statement checks a CONDITION and if it evaluates to TRUE , then the code block will execute.
+An if statement checks a CONDITION and if it evaluates to TRUE , then the code block will execute.
 
 * What is the use of an else if?
 
