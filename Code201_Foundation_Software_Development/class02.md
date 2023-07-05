@@ -62,7 +62,7 @@ Padding
 
   ## Learn JS
 
-  *What data type is a sequence of text enclosed in single quote marks?
+* What data type is a sequence of text enclosed in single quote marks?
 
   String
 
