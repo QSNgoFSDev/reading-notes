@@ -74,11 +74,11 @@ title attribute to add full expansion
 
   String
 
-  * List 4 types of JavaScript operators.
+* List 4 types of JavaScript operators.
 
   Assignment Operators, Logical, String ,Type.
 
-  *Describe a real world Problem you could solve with a Function. 
+*Describe a real world Problem you could solve with a Function. 
 
   Random generator, BMI calculator.
 
@@ -92,7 +92,7 @@ If code block of if return false, then will consider the next case is else if. i
 
 *List 3 different types of comparison operators. 
 
->,<, =
+`>,<, =`
 
 *What is the difference between the logical operator && and ||?
 
