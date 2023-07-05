@@ -34,38 +34,30 @@ title attribute to add full expansion
   External stylesheets: External stylesheets are separate CSS files that are linked to the HTML document using the` <link>` tag. The CSS rules defined in the external stylesheet can be applied to multiple HTML pages by linking to the same CSS file.
   
   Inline CSS using the style attribute: In addition to inline styles, individual HTML elements can have inline CSS using the style attribute. For example:` <h1 style="color: red;">`This is a red heading.`</h1>`. This approach is less common and often used for specific cases.
-  
-  Now, let's review the code block you provided:
-  
-  htmlCopy code
- ` <p class="highlight" id="paragraph">This is a paragraph.</p>`
-  In this code block:
-  
-  The selector is the combination of the class and ID attributes, i.e., .highlight and #paragraph.The CSS declarations are the properties and values that define the styling. However, the code block you provided does not contain any CSS declarations.The properties in CSS declarations define the specific aspects of the styling, such as color, font-size, background-color, etc. In this code block, there are no properties present.
-  Please note that for a complete understanding and application of CSS, you would need to provide the relevant CSS declarations and properties in addition to the HTML code.
-  
-  CSS (Cascading Style Sheets) is structured using selectors, declarations, and properties. Let's address your questions:
-  
-  Ways to apply CSS to HTML:
-  
-  Inline styles: Applying styles directly to HTML elements using the style attribute.
-  Internal stylesheets: Defining styles within the HTML document using the `<style> tag in the <head> section.`
-  External stylesheets: Creating a separate CSS file and linking it to the HTML document using the `<link>` tag.
-  Why avoid using inline styles:
-  
-  Decreased maintainability: Inline styles make it harder to manage and update styles across multiple elements since each element has its own inline style.
-  Poor separation of concerns: Inline styles mix presentation with content, violating the principle of separating structure and style.
 
-  Specificity and overriding: Inline styles have high specificity, making it difficult to override them with external or internal stylesheets.
-  Now, let's review the code block you provided:
+`h2 {
+     color: black;
+     padding: 5px;
+   }`
+
+* What is representing the selector? 
+h2
+
+* Which components are the CSS declarations?
+
+Color
+padding
+
+*Which components are considered properties?
+
+color
+Padding
+
+
+
+
   
-  htmlCopy code
- ` <p class="highlight" id="paragraph">`This is a paragraph.`</p>`
-  In this code block:
-  
-  The selector is represented by the class attribute (highlight) and the id attribute (paragraph).
-  Since the code block doesn't include any CSS declarations, there are no components representing CSS declarations.
-  Similarly, since there are no CSS declarations, there are no components representing properties.
+
 
 
   ## Learn JS
