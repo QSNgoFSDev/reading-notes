@@ -12,9 +12,8 @@ Progress so far:
 - [ ] Code 401 - Advanced Software Development.
 
 ## Code 201 - Foundations of Software Development.
-### [Class 01 :  Setup Developer Toolbelt] (/Code201_Foundation_Software_Development/class01.md)
-
-### [Class 02:  Introduction To Web Development ] (/Code201_Foundation_Software_Development/class02.md)
+[Class 01 :  Setup Developer Toolbelt] (/Code201_Foundation_Software_Development/class01.md)
+[Class 02:  Introduction To Web Development ] (/Code201_Foundation_Software_Development/class02.md)
  
 
     
