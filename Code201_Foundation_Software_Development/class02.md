@@ -23,7 +23,7 @@
 
 title attribute to add full expansion
 
-*What are ways we can apply CSS to our HTML?
+* What are ways we can apply CSS to our HTML?
   
   To apply CSS to HTML, you can use various methods:
   
@@ -48,7 +48,7 @@ h2
 Color
 padding
 
-*Which components are considered properties?
+* Which components are considered properties?
 
 color
 Padding
@@ -70,7 +70,7 @@ Padding
 
   Assignment Operators, Logical, String ,Type.
 
-*Describe a real world Problem you could solve with a Function. 
+* Describe a real world Problem you could solve with a Function. 
 
   Random generator, BMI calculator.
 
@@ -82,11 +82,11 @@ An if statement checks a CONDITION and if it evaluates to TRUE , then the code b
 
 If code block of if return false, then will consider the next case is else if. if else if false, then code will fall through the rest of cases.
 
-*List 3 different types of comparison operators. 
+* List 3 different types of comparison operators. 
 
 `>,<, =`
 
-*What is the difference between the logical operator && and ||?
+* What is the difference between the logical operator && and ||?
 
 `&&` is 'and' condition, which mean code block only execute at stage both condtion is true.
 
