@@ -38,7 +38,7 @@ td = table data
 th = table header
 
 
-##Introducing Constructors
+## Introducing Constructors
 
 * What is a constructor and what 
 are some advantages to using it?
