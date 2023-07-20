@@ -119,3 +119,7 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 JavaScript and the DOM have a symbiotic relationship. JavaScript provides the ability to manipulate the DOM, enabling dynamic and interactive web experiences, while the DOM provides the structure and content for JavaScript to interact with and modify. Together, they form a powerful combination for building web applications.
 
 
+
+
+
+
